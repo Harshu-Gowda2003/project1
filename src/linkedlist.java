@@ -12,7 +12,5 @@ public class linkedlist
         System.out.println(names);
         System.out.println(names.add(2));
         System.out.println(names);
-
-
     }
 }
