@@ -7,7 +7,7 @@ public class tree_set
     public static void main(String[] args)
     {
         TreeSet<Integer> names = new TreeSet<>();
-        names.add(14);
+        names.add(45);
         names.add(30);
         names.add(2);
         names.add(8);
