@@ -14,7 +14,6 @@ public class tree_set
         System.out.println(names);
         System.out.println(names.first());
         System.out.println(names);
-
         System.out.println(names.last());
         System.out.println(names);
         System.out.println(names.ceiling(25));
@@ -25,8 +24,5 @@ public class tree_set
         System.out.println(names);
         System.out.println(names.lower(4));
         System.out.println(names);
-
-
-
     }
 }
